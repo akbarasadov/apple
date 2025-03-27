@@ -1,0 +1,133 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Roboto;
+}
+
+.p {
+    text-align: center;
+    width: 1008px;
+    height: 171px;
+    text-align: center;
+    padding-left: 20%;
+    padding-bottom: 54px;
+}
+
+.body {
+    display: flex;
+    padding-left: 25%;
+}
+
+h2 {
+    font-weight: 700;
+    font-size: 48px;
+    padding-top: 40px;
+}
+
+.space {
+    font-family: Gilroy;
+    font-weight: 700;
+    font-size: 24px;
+    color: #0071E3;
+
+}
+
+.price {
+    font-family: Gilroy;
+    font-weight: 700;
+    font-size: 48px;
+    padding-top: 48px;
+}
+
+.name {
+    padding-left: 48px;
+    width: 292;
+    height: 196;
+}
+
+.blocks {
+    text-align: center;
+    padding-left: 38%;
+    padding-right: 38%;
+}
+
+.buttons {
+    padding-top: 68px;
+    padding-bottom: 39px;
+    text-align: center;
+}
+
+.white {
+    width: 155px;
+    height: 42px;
+    border-radius: 10px;
+    border: none;
+}
+
+.grey {
+    width: 155px;
+    height: 42px;
+    border-radius: 10px;
+    border: none;
+    background: #CFE7FF;
+
+}
+
+.block {
+    width: 321px;
+    height: 57px;
+    border-radius: 10px;
+    border: 2px solid #CFE7FF;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.tb {
+    padding-left: 10px;
+}
+
+.pr {
+    padding-right: 10px;
+}
+
+.bb1 {
+    border: 3px solid #80bbf6;
+}
+
+.bb2 {
+    border: 3px solid #80bbf6;
+}
+
+.bb3 {
+    border: 3px solid #80bbf6;
+}
+
+.bb4 {
+    border: 3px solid #80bbf6;
+}
+
+.onwhite {
+    background: #0071E3;
+}
+
+.ongrey {
+    background: #0071E3;
+}
+
+.white.asd {
+    background: #CFE7FF;
+
+}
+
+.grey.asd {
+    background: #CFE7FF;
+}
+
+.p p {
+    font-family: Roboto;
+    font-weight: 470;
+    font-size: 18px;
+    text-align: center;
+}
